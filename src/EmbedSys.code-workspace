@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/EmbedSys"
+		},
+		{
+			"name": "embsys",
+			"path": "../../embsys"
+		},
+		{
+			"name": "EmbedSys",
+			"path": "../../EmbedSys"
+		},
+		{
+			"name": "EmbededSys",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
